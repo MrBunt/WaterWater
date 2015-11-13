@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Size]
+﻿CREATE TABLE [dbo].[WaterType]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Name] VARCHAR(50) NOT NULL

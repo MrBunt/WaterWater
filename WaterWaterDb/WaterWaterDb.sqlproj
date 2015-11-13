@@ -65,6 +65,7 @@
     <Build Include="Brand.sql" />
     <Build Include="Size.sql" />
     <Build Include="WaterType.sql" />
+    <Build Include="Price.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="WaterWaterDb.refactorlog" />
