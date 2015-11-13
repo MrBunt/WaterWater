@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="633ba3f0-695d-42d2-aa8f-7feb7da125bd" ChangeDateTime="11/13/2015 10:10:46">
+    <Property Name="ElementName" Value="[dbo].[Bottle].[Brand]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Bottle]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BrandId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9dc1e486-00da-44e6-890e-e0ab0cdfa5ca" ChangeDateTime="11/13/2015 10:11:05">
+    <Property Name="ElementName" Value="[dbo].[Bottle].[SizeIs]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Bottle]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SizeId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6f53b835-7c97-4009-9610-12983e78bdd1" ChangeDateTime="11/13/2015 10:12:25">
+    <Property Name="ElementName" Value="[dbo].[Bottle].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Bottle]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BottleId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="db321a2e-5b0e-41e8-9db1-3755d44a658b" ChangeDateTime="11/13/2015 10:13:13">
+    <Property Name="ElementName" Value="[dbo].[Bottle].[BottleId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Bottle]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id" />
+  </Operation>
+</Operations>
